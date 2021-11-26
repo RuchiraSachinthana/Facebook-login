@@ -81,7 +81,7 @@ font-size: 28px;
 
 .log-btn {
     
-    margin-top: 14px;
+    margin-top: 16px;
     border-style: solid;
     background-color: rgb(24, 119, 242) ;
     width: 374px;
@@ -95,10 +95,22 @@ font-size: 28px;
 
 }
 
-.fogt-link {
+.fgt-link {
    
-    margin-top: 25px;
+    margin-top: 15px;
     text-decoration: none;
     font-size: 15px;
     
+}
+.ca-btn {
+    margin-top: 16px;
+    border-style: solid;
+    background-color: #06a306 ;
+    width: 200px;
+    height: 50px ;
+    border-radius: 6px;
+    font-family: Arial, Helvetica;
+    font-size: 17px;
+    color: white ;
+    font-weight: bold;
 }
